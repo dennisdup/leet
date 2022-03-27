@@ -1,3 +1,6 @@
+// Codility - Lesson 7
+// Stacks and Queues
+
 // you can write to stdout for debugging purposes, e.g.
 // console.log('this is a debug message');
 

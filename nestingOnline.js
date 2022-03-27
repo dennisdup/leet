@@ -1,3 +1,6 @@
+// Codility - Lesson 7
+// Stacks and Queues
+
 function solution(S) {
     let index = 0
     let stack = []

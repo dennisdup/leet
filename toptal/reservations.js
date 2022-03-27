@@ -1,3 +1,4 @@
+// Toptal
 function solution(N, S){
     let seatMapper = ["A", "B", "C", "D", "E", "F", "G", "H", "J", "K"];
   

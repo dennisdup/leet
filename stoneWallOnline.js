@@ -1,4 +1,8 @@
+// Codility - Lesson 7
+// Stacks and Queues
+
 // http://straightdeveloper.com/how-to-get-100-score-on-the-stonewall-exercise-on-codility/
+
 function solution(H) {
     var blocks=1
     var previousWall=[H[0]]
